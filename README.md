@@ -11,3 +11,6 @@
 > 1. ```prepare_data.py```를 이용하여 감성문장 전처리
 > 2. ```train.py```를 이용한 학습
 > 3. ```run_sent.py```를 이용하여 Inference
+
+## 정확도
+> Accuracy Avg: 88.0%
